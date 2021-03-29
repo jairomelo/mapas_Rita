@@ -1,0 +1,31 @@
+﻿Identifier: 
+
+Title: Conjunto de datos vectoriales de información topográfica escala 1:50 000 serie III.
+
+Description: INEGI. Conjunto de datos vectoriales de información topográfica escala 1:50 000 serie III. SNIEG. Información de Interés Nacional.
+
+Contienen información sobre los diversos datos espaciales presentes en los conjuntos de datos, como curvas de nivel, hidrografía, vías de comunicación, localidades, entre otros. Estos rasgos son representados digitalmente por un componente geométrico (puntos, líneas o áreas) y componentes descriptivos (los atributos del dato). Los topónimos o nombres geográficos, se incluyen como atributos propios de cada uno de los datos que conforman cada conjunto de datos y que por su naturaleza los requieren. En esta serie se actualizaron las localidades, vías de comunicación y cuerpos de agua, por ser estos los rasgos con mayor dinámica con respecto al tiempo, además de todos aquellos objetos que por su relación espacial con las anteriores necesiten ajustarse.
+
+Modified: 2016-02-11
+
+Publisher: Instituto Nacional de Estadística y Geografía, INEGI
+
+Mbox: atencion@usuarios.inegi.org.mx
+
+License: Términos de Libre Uso de la Información del INEGI http://www.inegi.org.mx/terminos/terminos_info.aspx
+
+DataDictionary:
+http://www.inegi.org.mx/geo/contenidos/topografia/doc/dd_topo_v2_50k.pdf 
+
+Keyword: Acueducto, Aeropuerto, Área de Cultivo,  Área Verde Urbana, Arrecife/ Bajo, Banco de Material, Bordo, Calle, Camino, Canal, Carretera, Caseta de Peaje, Cementerio, Conducto, Corriente de Agua, Corriente que Desaparece, Cuerpo de Agua, Curva de Nivel, Depósito de Desechos,  Edificación, Entrada a Gruta, Estanque, Estructura Elevada, Fango,  Faro/Radiofaro/Vor, Instalación de Bombeo, Instalación de Comunicación,  Instalación Deportiva o Recreativa, Instalación Diversa, Instalación Industrial, Instalación Portuaria, Límite, Lindero, Línea de Comunicación, Línea de Transmisión, Localidad, Lumbrera, Malpaís,  Manantial, Mina, Mojonera, Muro de Contención, Nieve Perpetua, Pantano  Pista de Aviación, Pista de Carreras, Planta Generadora, Pozo de Explotación, Presa, Puente, Punto Acotado, Rápido, Rasgo Arqueológico,  Referencia Geográfica, Roca, Ruta de Embarcación, Ruta de Funicular / Teleférico, Salina, Salto de Agua, Subestación Eléctrica, Tanque, Tanque de Agua, Terreno Sujeto a Inundación, Túnel, Vado, Vegetación Densa, Vía Férrea, Zona Arenosa. 
+
+ContactPoint: Lic. José de Jesús Esquivel de la Rosa, 01800 111 4634
+
+Temporal: 2013-2018 
+
+Spatial: Estados Unidos Mexicanos
+
+AccrualPeriodicity: Cada 6 años
+
+Distribution: http://buscador.inegi.org.mx/search?client=ProductosR&proxystylesheet=ProductosR&num=10&getfields=*&sort=date:D:S:d1&entsp=a__inegi_politica_p72&lr=lang_es%7Clang_en&oe=UTF-8&ie=UTF-8&ip=10.152.21.8&entqr=3&filter=0&site=ProductosBuscador&tlen=140&ulang=es&access=p&entqrm=0&ud=1&q=%22Cartas+Topogr%C3%A1ficas%22+inmeta:escala_ficha%3D1%253A50%2520000&dnavs=inmeta:escala_ficha%3D1%253A50%2520000 
+
